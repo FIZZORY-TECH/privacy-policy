@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 2025-01-01
 
-[Your Extension Name] ("the Extension") is committed to protecting your privacy. This Privacy Policy explains how the Extension handles your information.
+FIZZORY Scrapper ("the Extension") is committed to protecting your privacy. This Privacy Policy explains how the Extension handles your information.
 
 ## 1. Information Collection
 The Extension does not collect, store, or transmit any personal or non-personal data. All operations performed by the Extension occur locally on your device, and no information is shared with external servers or third parties.
